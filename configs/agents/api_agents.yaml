@@ -21,3 +21,17 @@ text-davinci-002:
         body:
             model: "text-davinci-002"
             max_tokens: 512
+
+ernie-bot:
+    module: src.client.agents.HTTPAgent
+    parameters:
+        url: https://aip.baidubce.com/rpc/2.0/ai_custom/v1/wenxinworkshop/chat/completions?access_token=24.1a51eb5391ffb6abe1bfa8803838091f.2592000.1705807431.282335-45322623"
+        headers:
+            Content-Type: application/json
+        prompter:
+            name: role_content_dict
+            args:
+                agent_role: assistant
+        return_format: "{response[result]}"
+        
+
