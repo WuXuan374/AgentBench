@@ -211,5 +211,6 @@ class HTTPAgent(AgentClient):
             else:
                 resp = resp.json()
                 return self.return_format.format(response=resp)
-            time.sleep(_ + 2)
+            # time.sleep(_ + 2)
+            time.sleep(_) # 使用 ernie-bot 的话，应该不存在 rate limit
         raise Exception("Failed.")

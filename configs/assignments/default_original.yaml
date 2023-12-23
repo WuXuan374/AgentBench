@@ -2,14 +2,16 @@ import: definition.yaml
 
 concurrency:
   task:
-    kg-dev: 1
+    dbbench-std: 5
+    os-std: 5
   agent:
-    ernie-bot: 1
+    gpt-3.5-turbo-0613: 5
 
 assignments: # List[Assignment] | Assignment
   - agent: # "task": List[str] | str ,  "agent": List[str] | str
-      - ernie-bot
+      - gpt-3.5-turbo-0613
     task:
-      - kg-dev
+      - dbbench-std
+      - os-std
 
 output: "outputs/{TIMESTAMP}"

@@ -2,7 +2,7 @@ default:
   module: "src.server.tasks.knowledgegraph.KnowledgeGraph"
   parameters:
     round: 15
-    sparql_url: "http://114.212.81.217:8896/sparql"
+    sparql_url: "http://164.107.116.56:3093/sparql"
 
 kg-dev:
   parameters:
