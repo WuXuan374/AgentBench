@@ -1,6 +1,7 @@
 import contextlib
 import time
 import warnings
+import random
 
 import requests
 from urllib3.exceptions import InsecureRequestWarning
@@ -11,6 +12,11 @@ from ..agent import AgentClient
 
 old_merge_environment_settings = requests.Session.merge_environment_settings
 
+def load_json(fname, mode="r", encoding="utf8"):
+    if "b" in mode:
+        encoding = None
+    with open(fname, mode=mode, encoding=encoding) as f:
+        return json.load(f)
 
 @contextlib.contextmanager
 def no_ssl_verification():
@@ -213,4 +219,73 @@ class HTTPAgent(AgentClient):
                 return self.return_format.format(response=resp)
             # time.sleep(_ + 2)
             time.sleep(_) # 使用 ernie-bot 的话，应该不存在 rate limit
+        raise Exception("Failed.")
+
+class HTTPAgentOpenAI(AgentClient):
+    """
+    OpenAI 存在比较严格的 rate limit, 需要我们使用多个 API KEY, 轮流访问
+    """
+    def __init__(
+        self,
+        url,
+        proxies=None,
+        body=None,
+        headers=None,
+        api_key_list_file="configs/apikeys/openai_keys_test.json",
+        return_format="{response}",
+        prompter=None,
+        **kwargs,
+    ) -> None:
+        super().__init__(**kwargs)
+        self.url = url
+        self.proxies = proxies or {}
+        self.headers = headers or {}
+        self.api_keys:list = load_json(api_key_list_file)
+        random.seed(374)
+        random.shuffle(self.api_keys)
+        self.body = body or {}
+        self.return_format = return_format
+        self.prompter = Prompter.get_prompter(prompter)
+        if not self.url:
+            raise Exception("Please set 'url' parameter")
+    
+    def _construct_header(self):
+        current_api_key = self.api_keys.pop(0)
+        self.api_keys.append(current_api_key)
+        new_header = {
+            "Authorization": f"Bearer {current_api_key}"
+        }
+        new_header.update(self.headers)
+        return new_header
+
+    def _handle_history(self, history: List[dict]) -> Dict[str, Any]:
+        return self.prompter(history)
+
+    def inference(self, history: List[dict]) -> str:
+        for _ in range(3):
+            try:
+                body = self.body.copy()
+                body.update(self._handle_history(history))
+                with no_ssl_verification():
+                    resp = requests.post(
+                        self.url, json=body, headers=self._construct_header(), proxies=self.proxies, timeout=120
+                    )
+                # print(resp.status_code, resp.text)
+                if resp.status_code != 200:
+                    # print(resp.text)
+                    if check_context_limit(resp.text):
+                        raise AgentContextLimitException(resp.text)
+                    else:
+                        raise Exception(
+                            f"Invalid status code {resp.status_code}:\n\n{resp.text}"
+                        )
+            except AgentClientException as e:
+                raise e
+            except Exception as e:
+                print("Warning: ", e)
+                pass
+            else:
+                resp = resp.json()
+                return self.return_format.format(response=resp)
+            time.sleep(_ + 2)
         raise Exception("Failed.")

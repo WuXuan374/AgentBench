@@ -1,5 +1,13 @@
+# gpt-3.5-turbo-0613:
+#     import: "./openai-chat.yaml"
+#     parameters:
+#         name: "gpt-3.5-turbo-0613"
+#         body:
+#             model: "gpt-3.5-turbo-0613"
+#             max_tokens: 512
+
 gpt-3.5-turbo-0613:
-    import: "./openai-chat.yaml"
+    import: "./openai-chat-multi-keys.yaml"
     parameters:
         name: "gpt-3.5-turbo-0613"
         body:
