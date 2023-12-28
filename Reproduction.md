@@ -101,3 +101,34 @@ python -m src.assigner -r
 - 相关配置文件 
     - openai-chat-multi-keys.yaml
     - apikeys/openai_keys_test.json
+
+# 修改过的内容记录
+见 https://github.com/WuXuan374/AgentBench/compare/fb84cb3..adc728e
+
+配置相关:
+- openai-chat-multi-keys.yaml: 指定了 API Key 所在的文件
+- 并发数量 -> 1
+- configs/assignments/default.yaml: 执行 kg-dev 任务
+- SPARQL 端口替换
+
+功能相关:
+- HTTPAgentOpenAI
+    - 多个 key 轮换使用
+    - TODO: max_retries 参数可设置
+
+
+# 实验运行记录
+## debug
+```shell
+python -m src.start_task -a
+```
+```bash
+python -m src.assigner -r 
+```
+## webqsp_test_0_200
+```shell
+python -m src.start_task -a --config configs/start_task_webqsp_test_0_200.yaml
+```
+```bash
+python -m src.assigner -r --config configs/assignments/default_webqsp_test_0_200.yaml
+```

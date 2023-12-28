@@ -1,4 +1,5 @@
 import sys
+import time
 from typing import List, Tuple, Dict, Any
 
 from src.server.task import Task, Session
@@ -155,6 +156,7 @@ class KnowledgeGraph(Task):
         return list(range(len(self.data)))
 
     async def start_sample(self, index: SampleIndex, session: Session) -> TaskSampleExecutionResult:
+        time_start = time.time()
         data_item = self.inputs[index]
 
         # TODO: complete this function
@@ -162,6 +164,7 @@ class KnowledgeGraph(Task):
         answer = []
         actions = []
         variables_list = []
+        s_expression = None
 
         question = data_item["question"]
         entities = data_item["entities"]
@@ -199,7 +202,7 @@ class KnowledgeGraph(Task):
                     session.inject({"role": "user", "content": "Invalid variable id! Need to recheck the action."})
                     # print({"role": "user", "content": "Invalid variable id! Need to recheck the action."})
                     continue
-                answer = final_execute(answer_variable, self.sparql_executor)
+                answer, s_expression = final_execute(answer_variable, self.sparql_executor)
                 break
             else:
                 lines = message.split("\n")
@@ -256,5 +259,5 @@ class KnowledgeGraph(Task):
                         {"role": "user", "content": "No executable function found! Need to recheck the action."})
         else:
             finish_reason = SampleStatus.TASK_LIMIT_REACHED
-
-        return TaskSampleExecutionResult(status=finish_reason, result={"predict": answer, "actions": actions})
+        time_end = time.time()
+        return TaskSampleExecutionResult(status=finish_reason, result={"predict": answer, "s_expression": s_expression, "time_cost": time_end-time_start, "actions": actions})

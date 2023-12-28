@@ -2,7 +2,7 @@ import: definition.yaml
 
 concurrency:
   task:
-    kg-debug: 1
+    kg-webqsp-test-0-200: 1
   agent:
     gpt-3.5-turbo-0613: 1
 
@@ -10,6 +10,6 @@ assignments: # List[Assignment] | Assignment
   - agent: # "task": List[str] | str ,  "agent": List[str] | str
       - gpt-3.5-turbo-0613
     task:
-      - kg-debug
+      - kg-webqsp-test-0-200
 
-output: "outputs/debug_{TIMESTAMP}"
+output: "outputs/webqsp_test_0_200_{TIMESTAMP}"

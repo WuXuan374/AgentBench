@@ -1,0 +1,3481 @@
+[
+    {
+        "question": "What movie produced by Chris Columbus did Adam Sandler play in?",
+        "qid": "WebQTrn-1677_15a55e684b4c9a686e6865cfcad59905",
+        "entities": {
+            "Adam Sandler": "m.0pz91",
+            "Chris Columbus": "m.01r2c7"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.010rdrd1"
+            }
+        ]
+    },
+    {
+        "question": "What two structures opened after 1966 in Laughlin, Nevada?",
+        "qid": "WebQTrn-423_ce9f01df27adbfc73deaa6a14e5aa69c",
+        "entities": {
+            "Laughlin": "m.020bkmh",
+            "1966": "\"1966\"^^<http://www.w3.org/2001/XMLSchema#dateTime>"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.092zr1"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.093h23"
+            }
+        ]
+    },
+    {
+        "question": "What person who influenced Jackson Pollock's work died on 25 October 1881?",
+        "qid": "WebQTrn-2316_309331514903d37848eff7694e047856",
+        "entities": {
+            "Jackson Pollock": "m.04510",
+            "1881-10-25": "\"1881-10-25\"^^<http://www.w3.org/2001/XMLSchema#dateTime>"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.060_7"
+            }
+        ]
+    },
+    {
+        "question": "Where is Whistler Mountain located, and does it include Sugar Mountain Ski Resort?",
+        "qid": "WebQTrn-261_9959e6fa280ab11551e5f9974e25bfe4",
+        "entities": {
+            "Sugarloaf Mountain Ski Resort": "m.0101mywf",
+            "Whistler Mountain": "m.02pg6z3"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0d060g"
+            }
+        ]
+    },
+    {
+        "question": "Where is the country that has Africa Proconsularis centered?",
+        "qid": "WebQTrn-1232_ae9a833cf2cca30c1c9725fc6a167794",
+        "entities": {
+            "Africa Proconsularis": "m.02d53g"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01q0l"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06c62"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.09b93"
+            }
+        ]
+    },
+    {
+        "question": "Which languages is used in the area with the second level division of Laeso Municipality?",
+        "qid": "WebQTrn-1069_b526307856da0d2f8d1bf4ceecb179ad",
+        "entities": {
+            "Læsø Municipality": "m.0w1g9nm"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04306rv"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02_8gp"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02hrcqd"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0295r"
+            }
+        ]
+    },
+    {
+        "question": "What country that has territories in Oceania is in the Samao Time Zone?",
+        "qid": "WebQTest-712_8eab5c6b79bdea85c78c813f6204a555",
+        "entities": {
+            "Country": "m.01mp",
+            "Oceania": "m.05nrg",
+            "Samoa Time Zone": "m.027wj2_"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0h8d"
+            }
+        ]
+    },
+    {
+        "question": "Who was the president during WW2 that held his governmental position in the US before March 4, 1933?",
+        "qid": "WebQTrn-2570_f2ac2245cddd54b4cfd140b20c16d4a6",
+        "entities": {},
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02yy8"
+            }
+        ]
+    },
+    {
+        "question": "Which Taylor Lautner movie debuted at the 2011 Rome Film Festival?",
+        "qid": "WebQTrn-25_1a8f9df19261bd5438edc650229293e4",
+        "entities": {
+            "Taylor Lautner": "m.07ldhs",
+            "2011 Rome Film Festival": "g.1yg4l__fv"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.075wx89"
+            }
+        ]
+    },
+    {
+        "question": "How did Franz Liszt earn a living after stepping down from leading a religious organization in 1805?",
+        "qid": "WebQTest-1379_5d4f60d21b1a51a0e4b7f4c661219b56",
+        "entities": {
+            "Life of Franz Liszt": "m.0hqgp",
+            "1805": "\"1805\"^^<http://www.w3.org/2001/XMLSchema#dateTime>"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.05xjb"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of Stewie Giffin's parent that Seth Macfarlane voices?",
+        "qid": "WebQTrn-1597_612ba687069a689a99447f07ed218ea7",
+        "entities": {
+            "Seth MacFarlane": "m.021yw7",
+            "Voice": "m.02nsjvf",
+            "Stewie Griffin": "m.02m29p"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.03n6jv"
+            }
+        ]
+    },
+    {
+        "question": "What is the modern language spoken in countries that used to speak Gebel Elba?",
+        "qid": "WebQTrn-2189_8b3815ec57389b13892dd5abb108cc4e",
+        "entities": {
+            "Gebel Elba": "m.026cy73"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.025rvv7"
+            }
+        ]
+    },
+    {
+        "question": "What magazine did the person who said \"To observe attentively is to remember distinctly.\" work for?",
+        "qid": "WebQTrn-2006_e258f4c46fa686cf9c12150935e9211f",
+        "entities": {
+            "To observe attentively is to remember distinctly.": "m.05bryc1"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0282h9k"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0285kdq"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.028b1d9"
+            }
+        ]
+    },
+    {
+        "question": "Which character voiced by Seth MacFarlane was born in Thundera?",
+        "qid": "WebQTrn-1597_8adc06ba12a3254370bdb3ff8e8820af",
+        "entities": {
+            "Seth MacFarlane": "m.021yw7",
+            "Voice": "m.02nsjvf",
+            "Thundera": "m.06w3cw"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0nc8n9s"
+            }
+        ]
+    },
+    {
+        "question": "Is there anything to see near the Grand Canyon, and also the location in which Mike Bell was born?",
+        "qid": "WebQTrn-2871_1a7535ef3939b762b6b665c430b4cee7",
+        "entities": {
+            "Grand Canyon": "m.0cns5",
+            "Mike Bell": "\"Mike Bell\"@en"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0d35y"
+            }
+        ]
+    },
+    {
+        "question": "At what event that ended first did the dastardly, no-good Baltimore Ravens unfortunately win the Super Bowl?",
+        "qid": "WebQTest-837_0f56b49cc2257ee6ecffc17f5a53198c",
+        "entities": {
+            "Super Bowl": "m.06x5s",
+            "Baltimore Ravens": "m.01ct6"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.076yq"
+            }
+        ]
+    },
+    {
+        "question": "In the country that is the subject of the image ethiopia_flag.pngWho is the prime minister?",
+        "qid": "WebQTrn-21_8525c5940f40309bba7d6703f4c2b1f4",
+        "entities": {
+            "ethiopia_flag.png": "m.0pkpd_r",
+            "Prime minister": "m.060bp"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0dl1t3"
+            }
+        ]
+    },
+    {
+        "question": "What modern language is spoken in the country where Egyptian Arabic is a spoken language?",
+        "qid": "WebQTrn-2189_eacad512118512366a932ffd59ad4578",
+        "entities": {
+            "Egyptian Arabic": "m.02hx2cr"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.025rvv7"
+            }
+        ]
+    },
+    {
+        "question": "What movie, involving Ron Howard, involved Cirkus?",
+        "qid": "WebQTrn-567_29ffc855d3365362b98ce3dfcd0620f3",
+        "entities": {
+            "Ron Howard": "m.0g2lq",
+            "Cirkus": "m.0_zfk6d"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0dqwvw"
+            }
+        ]
+    },
+    {
+        "question": "What Bosnian language movie did Angelina Jolie direct?",
+        "qid": "WebQTrn-124_45558c3d50fea3459b8df64d9a23f58b",
+        "entities": {
+            "Angelina Jolie": "m.0f4vbz",
+            "Bosnian language": "m.01841n"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0gttw8n"
+            }
+        ]
+    },
+    {
+        "question": "What movies which Tupac acts in feature Ellyn Long Marshall as a film casting director?",
+        "qid": "WebQTrn-2784_1dc2b7729c8e70203833586f0d1bd021",
+        "entities": {
+            "Tupac Shakur": "m.07pzc",
+            "Ellyn Long Marshall": "m.091tr2b"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.08dk10"
+            }
+        ]
+    },
+    {
+        "question": "When did the sports team whose home arena is M&T Bank Stadium win the Super Bowl?",
+        "qid": "WebQTest-837_a65373d6ffaa966c347087864c895897",
+        "entities": {
+            "Super Bowl": "m.06x5s",
+            "M&T Bank Stadium": "m.01yq7r"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.076yq"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0642vqv"
+            }
+        ]
+    },
+    {
+        "question": "Which countries located on the Caribbean Sea once had CO2 emissions per capita of 1960 metric tons?",
+        "qid": "WebQTrn-1812_279ab36d62e499754cff2b68b31a1f78",
+        "entities": {
+            "Country": "m.01mp",
+            "Caribbean": "m.0261m",
+            "1960": "\"1960\"^^<http://www.w3.org/2001/XMLSchema#dateTime>"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0162v"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06s0l"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06ryl"
+            }
+        ]
+    },
+    {
+        "question": "What type of guitar was used by the lyracist for \"Heart-Shaped Box?\"?",
+        "qid": "WebQTest-1168_8d0b479d648d518072ba26f45d31a385",
+        "entities": {
+            "Heart-Shaped Box": "m.04241j"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.047q4j"
+            }
+        ]
+    },
+    {
+        "question": "Who was the Republican governor of Arizona in 2009?",
+        "qid": "WebQTest-1686_dea38577dc62de7675415718be1c9286",
+        "entities": {
+            "Republican Party": "m.07wbk",
+            "Arizona": "m.0vmt",
+            "Governor": "m.0fkvn",
+            "2009.0": "\"2009.0\"^^<http://www.w3.org/2001/XMLSchema#float>"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02pkb1c"
+            }
+        ]
+    },
+    {
+        "question": "Which countries with an iso of 3166-1 alpha-3 of CH speak germanic languages?",
+        "qid": "WebQTest-1251_06b52905bde59492048929d1073ea985",
+        "entities": {
+            "German Language": "m.04306rv",
+            "CH": "\"CH\""
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06mzp"
+            }
+        ]
+    },
+    {
+        "question": "What religion in the United States includes Stupa as a place of worship?",
+        "qid": "WebQTest-1091_e59e67ce229e185f08ce30ce73f32ade",
+        "entities": {
+            "United States of America": "m.09c7w0",
+            "Stupa": "m.01q4wd"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.092bf5"
+            }
+        ]
+    },
+    {
+        "question": "What region uses the Sterling as it's currency and is part of the UK?",
+        "qid": "WebQTrn-3136_58714f9fb6cdd02a90c953d33fc607f9",
+        "entities": {
+            "United Kingdom": "m.07ssc",
+            "Pound sterling": "m.01nv4h"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06q1r"
+            }
+        ]
+    },
+    {
+        "question": "What eastern European country has a government called National Assembly?",
+        "qid": "WebQTrn-513_f1ed21f5b31958286edf1ad7de9ac989",
+        "entities": {
+            "Country": "m.01mp",
+            "Eastern Europe": "m.09b69",
+            "National Assembly": "m.06npv6"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.015qh"
+            }
+        ]
+    },
+    {
+        "question": "In what nation would you find the topic of the image \"The Montelbaanstoren (1512) on the Oude Schans\"?",
+        "qid": "WebQTrn-497_a36d1c20b53f39947d462b263c6e1203",
+        "entities": {
+            "The Montelbaanstoren (1512) on the Oude Schans": "m.03tmx8l"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.059j2"
+            }
+        ]
+    },
+    {
+        "question": "Which disease does the actor, that was the character, Jay-Jay Manners have?",
+        "qid": "WebQTrn-3024_af0e35c3a617f83f33d3bd482bd98e63",
+        "entities": {
+            "Jay-Jay Manners": "m.0gxt_59"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0g02vk"
+            }
+        ]
+    },
+    {
+        "question": "What country has the government official named Manuel Altagracia CÃ¡ceres?",
+        "qid": "WebQTrn-2026_b3dea5ef61d99706b52127dd45ae6149",
+        "entities": {
+            "Manuel Altagracia Cáceres": "m.0b76q3h"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04lt7_"
+            }
+        ]
+    },
+    {
+        "question": "What fate did Adolf Hitler meet with at the end of WWII and is the subject of the film \"Shrink\"?",
+        "qid": "WebQTrn-2256_edb8b9f907200e4130e747f92364472d",
+        "entities": {
+            "Adolf Hitler": "m.07_m9_",
+            "Shrink": "m.04jlsj4"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06z5s"
+            }
+        ]
+    },
+    {
+        "question": "What is there to do in downtown Sacramento, where there is an organization headquarters, located in the city of Sacramento County?",
+        "qid": "WebQTest-1513_5422fa602469c38418171ad342583759",
+        "entities": {
+            "Sacramento County": "m.0bxqq",
+            "Sacramento": "m.07bcn"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.03v4j7"
+            }
+        ]
+    },
+    {
+        "question": "Where did the author who published \"The Story of My Life\" die?",
+        "qid": "WebQTrn-2641_aa25cef57eebcc069b1783e80e760069",
+        "entities": {
+            "The story of my life": "m.04tsr84"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0rd55"
+            }
+        ]
+    },
+    {
+        "question": "What movies by Cirkus has Miley Cyrus been in?",
+        "qid": "WebQTest-1923_29ffc855d3365362b98ce3dfcd0620f3",
+        "entities": {
+            "Miley Cyrus": "m.0bdxs5",
+            "Cirkus": "m.0_zfk6d"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.080gfc8"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06fcqw"
+            }
+        ]
+    },
+    {
+        "question": "Who dated Tupac Shakur and produced the movie After Earth?",
+        "qid": "WebQTrn-1278_51fc729996448b82cb36b98e70cf1498",
+        "entities": {
+            "After Earth": "m.0hhgh70",
+            "Tupac Shakur": "m.07pzc"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01j7z7"
+            }
+        ]
+    },
+    {
+        "question": "What movie was displayed at the 2012 refugee film festival and had Angelia Jolie directing it?",
+        "qid": "WebQTrn-124_8a391bb9366c22ce0aadc00cfecf7e08",
+        "entities": {
+            "Angelina Jolie": "m.0f4vbz",
+            "2012 Refugee Film Festival": "m.0qsvdrs"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0gttw8n"
+            }
+        ]
+    },
+    {
+        "question": "What university is located in West Lafayette and is Drew Brees Almamater?",
+        "qid": "WebQTest-191_4bffd309f29d10e4947a82851bf0cee4",
+        "entities": {
+            "Drew Brees": "m.030bdd",
+            "College/University": "m.01y2hnl",
+            "West Lafayette": "m.0sqd0"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.05x_5"
+            }
+        ]
+    },
+    {
+        "question": "What movie was edited by Jim Clark and featured Taylor Swift?",
+        "qid": "WebQTest-538_2055b38029bf8f2a0c593d3a189d3efe",
+        "entities": {
+            "Jim Clark": "m.03crcpt",
+            "Taylor Swift": "m.0dl567"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06_wqk4"
+            }
+        ]
+    },
+    {
+        "question": "Where did Charles Drew attend college, where the education institution has a sports team titled, the Columbia Lions men's basketball team?",
+        "qid": "WebQTrn-1557_26a7885fc5b44e07960d2c427ae7853d",
+        "entities": {
+            "Charles R. Drew": "m.018t67",
+            "Columbia Lions men's basketball": "m.05h0gpw",
+            "College/University": "m.01y2hnl"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01w5m"
+            }
+        ]
+    },
+    {
+        "question": "What type of paintings were created by the subject of the movie \"Frida Still Life\"?",
+        "qid": "WebQTrn-1484_c4d4e06a9ed122d9ffa605447e7772ac",
+        "entities": {
+            "Frida Still Life": "m.0bq9r3g"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0127jb"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.015r61"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.073_6"
+            }
+        ]
+    },
+    {
+        "question": "Where does the breed Schipperke originated from?",
+        "qid": "WebQTrn-493_590fff78c30981ef9566ad54a453d002",
+        "entities": {
+            "Schipperke": "m.01dv7j"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02j9z"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02qkt"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0852h"
+            }
+        ]
+    },
+    {
+        "question": "Which countries with a currency of Swiss Franc do people speak Germanic languages?",
+        "qid": "WebQTest-1251_f6e8b7149f2e422640a49beb753be4ef",
+        "entities": {
+            "German Language": "m.04306rv",
+            "Swiss franc": "m.01_h4b"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06mzp"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04j53"
+            }
+        ]
+    },
+    {
+        "question": "Which movie with a character called Ajila was directed by Angelina Jolie?",
+        "qid": "WebQTrn-124_f3990dc9aa470fa81ec4cf2912a9924f",
+        "entities": {
+            "Angelina Jolie": "m.0f4vbz",
+            "Ajla": "m.0gwfc0b"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0gttw8n"
+            }
+        ]
+    },
+    {
+        "question": "Where did Charles Drew attend college that has the latest founding date?",
+        "qid": "WebQTrn-1557_a4800ceab3187ab0a2b36a0aec2c1dfa",
+        "entities": {
+            "Charles R. Drew": "m.018t67",
+            "College/University": "m.01y2hnl"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0b5fng"
+            }
+        ]
+    },
+    {
+        "question": "What are the movies that Taylor Swift has been in that were made in the United States?",
+        "qid": "WebQTest-538_0c696fc38674c1c6970589fc7e965514",
+        "entities": {
+            "United States Dollar": "m.09nqf",
+            "Taylor Swift": "m.0dl567"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06_wqk4"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02x3lt7"
+            }
+        ]
+    },
+    {
+        "question": "Who produced the movie \"August\" and dated Scarlett Johansson?",
+        "qid": "WebQTest-213_facc2f7bae94c21d7ada586512f36c67",
+        "entities": {
+            "Scarlett Johansson": "m.02114t",
+            "August": "m.02q5d_y"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01kgv4"
+            }
+        ]
+    },
+    {
+        "question": "The country that contains Al Sharqia Governorate's best for of currency in 2013 was what?",
+        "qid": "WebQTrn-105_cf2c2ca737c00135df125459635a368a",
+        "entities": {
+            "Al Sharqia Governorate": "m.02d5r_"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04phzg"
+            }
+        ]
+    },
+    {
+        "question": "What is the government type where \"Ardulfurataini Estan\" is the national anthem?",
+        "qid": "WebQTest-1823_6ac48b436d99ed7cd3f2d9329d95a0c8",
+        "entities": {
+            "Ardulfurataini Watan": "m.01cmcc"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.018wl5"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0glnsx"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0j729"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06cx9"
+            }
+        ]
+    },
+    {
+        "question": "What country located in the Greenwich Mean Time Zone that is the main trading partner of China?",
+        "qid": "WebQTrn-2664_471b83eade9707a4dba68e201bf29d73",
+        "entities": {},
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06s_2"
+            }
+        ]
+    },
+    {
+        "question": "What was the name in \"Juice\" of the lyricist for \"Panther Power\"?",
+        "qid": "WebQTrn-64_025fdfafd914ff922ab8144f527c06ec",
+        "entities": {
+            "Juice": "m.08w51z",
+            "Panther Power": "m.012nbkn9"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0h5rvlw"
+            }
+        ]
+    },
+    {
+        "question": "what did the man that said \"Genius is sorrow's child.\"   do before he was president?",
+        "qid": "WebQTest-931_f69da4b564ccde6d627037dc6d1057b6",
+        "entities": {},
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.09ryhrh"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.080v2"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.03hrvl"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02q_kt_"
+            }
+        ]
+    },
+    {
+        "question": "For which teams did the father of the performer in \"NFL Super Bowl XLIV Champions: New Orleans Saints\" play?",
+        "qid": "WebQTest-1348_2ef518b6a0dd4762e72424e5739a23e6",
+        "entities": {},
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.03gqb0k"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.05g3v"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.051q5"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04nmxtk"
+            }
+        ]
+    },
+    {
+        "question": "Who created the art series of Ovid among the Scythians and was the person who inspired Monet?",
+        "qid": "WebQTrn-2540_cbb53a692c407d36d044d07bcd2d23ec",
+        "entities": {
+            "Ovid among the Scythians": "m.09v87q8",
+            "Claude Monet": "m.01xnj"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.016s03"
+            }
+        ]
+    },
+    {
+        "question": "What magazine did Edgar Allen Poe work for that started publishing most recently?",
+        "qid": "WebQTrn-2006_2c10e06058f2ec5a912670c44257757f",
+        "entities": {
+            "Edgar Allan Poe": "m.02lt8"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0285kdq"
+            }
+        ]
+    },
+    {
+        "question": "Where is Belgium and is also the place in the fictional universe of Mortal Engines?",
+        "qid": "WebQTrn-493_c190c338e109a3f6677d02792fc19977",
+        "entities": {
+            "Mortal Engines": "m.0b_s0_f",
+            "Belgium": "m.0154j"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02j9z"
+            }
+        ]
+    },
+    {
+        "question": "Which venue does the Chicago Cubs play at that has the greatest occupancy capacity?",
+        "qid": "WebQTrn-2047_01c02992dccda4886742ee8f9411d939",
+        "entities": {
+            "Chicago Cubs": "m.01yjl"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0b0sh"
+            }
+        ]
+    },
+    {
+        "question": "What years' World Series were won by the sports team whose owner is Frank McCourt?",
+        "qid": "WebQTrn-750_e02e76134732e285f2d7641ac41d5a3f",
+        "entities": {
+            "Frank McCourt": "m.05w2rj"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04tfp1"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04tfrv"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04tfkz"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04j7dq"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04j7ml"
+            }
+        ]
+    },
+    {
+        "question": "Which languages do the people speak from the location which includes, HÃ¸je-Taastrup Municipality?",
+        "qid": "WebQTrn-3384_5fb8a0654bd627fd3eaed296aa6b52db",
+        "entities": {
+            "Høje-Taastrup Municipality": "m.012hg3"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04306rv"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02_8gp"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02hrcqd"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0295r"
+            }
+        ]
+    },
+    {
+        "question": "Which peer of Paul Verlaine inspired monet?",
+        "qid": "WebQTrn-2540_185aa57dfeb5f012e3284310ba38a597",
+        "entities": {
+            "Paul Verlaine": "m.014bg9",
+            "Claude Monet": "m.01xnj"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.074ck"
+            }
+        ]
+    },
+    {
+        "question": "Is the religion of which Gautama Buddha is a founding figure also a type of religions are in the united states?",
+        "qid": "WebQTest-1091_61efa0b17cc53c2187422d88bf670f22",
+        "entities": {
+            "United States of America": "m.09c7w0",
+            "Gautama Buddha": "m.015k7"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.092bf5"
+            }
+        ]
+    },
+    {
+        "question": "What Portuguese-speaking nation has a foreign direct investment net inflow of -100816373?",
+        "qid": "WebQTrn-60_8b2e8f4e23e7af4e77ae1535c753ef6b",
+        "entities": {
+            "Portuguese Language": "m.05zjd",
+            "-100816373": "\"-100816373\""
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01nqj"
+            }
+        ]
+    },
+    {
+        "question": "What basketball venue has the largest audience capacity where the Houston Rockets also play?",
+        "qid": "WebQTrn-2569_af4a1e99ad0adc75a3ae5c4ff0ced65b",
+        "entities": {
+            "Houston Rockets": "m.0jmfb"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01tx3t"
+            }
+        ]
+    },
+    {
+        "question": "What is the sports team that Messi played for in 2010 that uses the Estadio Monumental Antonio Vespucio Liberti museum?",
+        "qid": "WebQTest-924_6d72ea1b1b38e146c28c87fee57e7f96",
+        "entities": {
+            "Lionel Messi": "m.06qjgc",
+            "Estadio Monumental Antonio Vespucio Liberti": "m.05fd38",
+            "2010.0": "\"2010.0\"^^<http://www.w3.org/2001/XMLSchema#float>"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02bh_v"
+            }
+        ]
+    },
+    {
+        "question": "What city is near the Grand Canyon and still located in the United States?",
+        "qid": "WebQTrn-2871_4e2e3eb0c58dfa58f8cf69158295bc10",
+        "entities": {
+            "United States of America": "m.09c7w0",
+            "Grand Canyon": "m.0cns5"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0d35y"
+            }
+        ]
+    },
+    {
+        "question": "What college with a sports team called the Purdue Boilermakers football team is the educational institution where Drew Brees was educated?",
+        "qid": "WebQTest-191_ed2cadafdbc0ac07e3fedfdfc504e54b",
+        "entities": {
+            "Drew Brees": "m.030bdd",
+            "Purdue Boilermakers football": "m.0ftccy",
+            "College/University": "m.01y2hnl"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.05x_5"
+            }
+        ]
+    },
+    {
+        "question": "What other languages are spoken in the country where SamanÃ¡ English is spoken?",
+        "qid": "WebQTrn-1646_5abd17edee676db9f12bbbe84edfb575",
+        "entities": {
+            "Samaná English": "m.06jsg0"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06jsg0"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06nm1"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02dhwl"
+            }
+        ]
+    },
+    {
+        "question": "Which countries in Eastern Europe have a country calling code larger than 359?",
+        "qid": "WebQTrn-513_8628b36b9788a185f028e89c35be53df",
+        "entities": {
+            "Country": "m.01mp",
+            "Eastern Europe": "m.09b69",
+            "359.0": "\"359.0\"^^<http://www.w3.org/2001/XMLSchema#float>"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04w4s"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0d0kn"
+            }
+        ]
+    },
+    {
+        "question": "At the Karlovy Vary International Film Festival in 2007, name the movie that Ron Howard debuted.?",
+        "qid": "WebQTrn-567_99ee8bece1e5605e1dd1f2f15536b085",
+        "entities": {
+            "Ron Howard": "m.0g2lq",
+            "2007 Karlovy Vary International Film Festival": "m.05ys1fl"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0hv8w"
+            }
+        ]
+    },
+    {
+        "question": "Where is the artist who recorded \"Out of Your Mind\" from?",
+        "qid": "WebQTrn-3412_305f49b65a760af0e6ce8d06f43aa22a",
+        "entities": {
+            "Out of Your Mind (radio edit)": "m.0nrtqq"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01z26v"
+            }
+        ]
+    },
+    {
+        "question": "Which cartoon pornography films have starred Miley Cyrus?",
+        "qid": "WebQTest-1923_45a71163e7876e1ca8b7c88e38999705",
+        "entities": {
+            "Miley Cyrus": "m.0bdxs5",
+            "Cartoon pornography": "m.08phz7"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.080gfc8"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06fcqw"
+            }
+        ]
+    },
+    {
+        "question": "What is the country where Sakara Gold Beer is made and what type of currency is used there?",
+        "qid": "WebQTest-654_3a8152d581de19d1b839f3822e9392e3",
+        "entities": {
+            "El Gouna Beverage Co. Sakara Gold": "m.04dqh1z"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04phzg"
+            }
+        ]
+    },
+    {
+        "question": "What time is it in Texas at the Tulsa International Airport?",
+        "qid": "WebQTrn-464_72ce675be82a5655a30547169d8008e9",
+        "entities": {
+            "Texas": "m.07b_l",
+            "Tulsa International Airport": "m.01qgx3"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02fqwt"
+            }
+        ]
+    },
+    {
+        "question": "What country to which Japan exports is the governmental jurisdiction where Ionatana Ionatana holds a governmental office?",
+        "qid": "WebQTrn-3543_58fa00ab06c20e4ef19c1baa364ace47",
+        "entities": {
+            "Ionatana Ionatana": "m.01n54l",
+            "Japan": "m.03_3d"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.07fsv"
+            }
+        ]
+    },
+    {
+        "question": "Which actor, who played jacob black, starred in the movie with Gregory Tyree Boyce?",
+        "qid": "WebQTrn-2039_47ea4c3bb1d363c4231b3647fdf5d17e",
+        "entities": {
+            "Gregory Tyree Boyce": "m.064jyxs",
+            "Jacob Black": "m.02qd_td"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.07ldhs"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the structure opened in 1997 where the Chicago Cubs play?",
+        "qid": "WebQTrn-2047_3d5f855275265f74d81b862231578e33",
+        "entities": {
+            "Chicago Cubs": "m.01yjl",
+            "1997": "\"1997\"^^<http://www.w3.org/2001/XMLSchema#dateTime>"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.066by2"
+            }
+        ]
+    },
+    {
+        "question": "What is the real name of the celebrity that had a romance end after 1991 and played Vito Corleone?",
+        "qid": "WebQTrn-1294_166a8a452917734473adfcfaaef4e4e0",
+        "entities": {
+            "Vito Corleone": "m.05hp_9",
+            "1991": "\"1991\"^^<http://www.w3.org/2001/XMLSchema#dateTime>"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06cgy"
+            }
+        ]
+    },
+    {
+        "question": "What stadium was opened before 1997 and is home ot the Chicago Cubs?",
+        "qid": "WebQTrn-2047_66f0df8efaf1096fa9077e643da228ad",
+        "entities": {
+            "Chicago Cubs": "m.01yjl",
+            "1997": "\"1997\"^^<http://www.w3.org/2001/XMLSchema#dateTime>"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0b0sh"
+            }
+        ]
+    },
+    {
+        "question": "What university with 3708 postgraduates did Tennessee Williams attend?",
+        "qid": "WebQTest-983_1f8b6ebf20d1119eba090d8d0257bdc5",
+        "entities": {
+            "Tennessee Williams": "m.0c4y8",
+            "College/University": "m.01y2hnl",
+            "3708": "\"3708\""
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06thjt"
+            }
+        ]
+    },
+    {
+        "question": "Find the person referred to as Reich Governor during WWII, what happened to this person at the end of the war?",
+        "qid": "WebQTrn-2256_9979ad066382ff1507c923c8035087c4",
+        "entities": {
+            "Reich Governor": "m.09c1mpz"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02qnd1b"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06z5s"
+            }
+        ]
+    },
+    {
+        "question": "Which of China's main trading partners have total populations below 9881783?",
+        "qid": "WebQTrn-2664_7fb00bb9d7d0202408588eeef86d4eff",
+        "entities": {},
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.016zwt"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.07fsv"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01z88t"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01f08r"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.027jk"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06s_2"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0853g"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04hhv"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04sj3"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0ctw_b"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04wlh"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0j4b"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06tw8"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.07t_x"
+            }
+        ]
+    },
+    {
+        "question": "Which political district has the governmental body Senate of Canada and the Whistler mountain?",
+        "qid": "WebQTrn-261_dd80bf56757918c60cd1fc5ca8052f23",
+        "entities": {
+            "Senate of Canada": "m.0x2sv",
+            "Whistler Mountain": "m.02pg6z3"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.015jr"
+            }
+        ]
+    },
+    {
+        "question": "In which movies produced by Alan Sacks did Taylor Swift play?",
+        "qid": "WebQTest-538_24e115cb188daf911ab18e8bdb034829",
+        "entities": {
+            "Taylor Swift": "m.0dl567",
+            "Alan Sacks": "m.01w_5g5"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0djb8hx"
+            }
+        ]
+    },
+    {
+        "question": "Where did the subject of the image \"Martin Luther King, Jr.\" get shot?",
+        "qid": "WebQTrn-125_92e9299022203f700e6002d02143b613",
+        "entities": {
+            "Martin Luther King, Jr.": "m.02bgnz2"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0c_m3"
+            }
+        ]
+    },
+    {
+        "question": "In the country where Jamaican English is spoken, what money do they use?",
+        "qid": "WebQTest-1569_6f91b128b3ff3663ab0fb24cb4bfd1b2",
+        "entities": {
+            "Jamaican English": "m.01428y"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04xc2m"
+            }
+        ]
+    },
+    {
+        "question": "Which school attended by James Baldwin was founded after 1897?",
+        "qid": "WebQTrn-1577_645d3cae7d836cb626e01dff6bd61e35",
+        "entities": {
+            "James Baldwin": "m.017_pb",
+            "1897": "\"1897\"^^<http://www.w3.org/2001/XMLSchema#dateTime>"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06thjt"
+            }
+        ]
+    },
+    {
+        "question": "What is the main religion of the country where the Old Israeli sheckel is circulated?",
+        "qid": "WebQTest-1384_9440ac3bd6d8053ca4d553da408a7cb0",
+        "entities": {
+            "Old Israeli shekel": "m.090krt"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.03_gx"
+            }
+        ]
+    },
+    {
+        "question": "Of the Caribbean nations, which country has Papiamento as an official language?",
+        "qid": "WebQTrn-1812_19c95ace02f0dd9b7f67de3ecc3e8f5a",
+        "entities": {
+            "Country": "m.01mp",
+            "Caribbean": "m.0261m",
+            "Papiamento language": "m.01_5gm"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.05byy"
+            }
+        ]
+    },
+    {
+        "question": "Which country has an army of 101000 and is connected to France?",
+        "qid": "WebQTrn-241_fa1fffe7995213b6528da57ea4c8d226",
+        "entities": {
+            "Country": "m.01mp",
+            "France": "m.0f8l9c",
+            "101000": "\"101000\""
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0154j"
+            }
+        ]
+    },
+    {
+        "question": "What university with postgraduate numbers of less than 3708 was also attended by James Baldwin?",
+        "qid": "WebQTrn-1577_34fab9efec62ce40a115985e8743f69c",
+        "entities": {
+            "James Baldwin": "m.017_pb",
+            "3708.0": "\"3708.0\"^^<http://www.w3.org/2001/XMLSchema#float>"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06thjt"
+            }
+        ]
+    },
+    {
+        "question": "What governmental system is used in both Iraq and Dominica?",
+        "qid": "WebQTest-1823_c914b0ca5bf68616cc936d2a9a5c8f26",
+        "entities": {
+            "Iraq": "m.0d05q4",
+            "Dominica": "m.027nb"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0glnsx"
+            }
+        ]
+    },
+    {
+        "question": "What year did the MLB franchise owned by Bill Neukom win the world series?",
+        "qid": "WebQTrn-810_a188aff4a054e1ec66fafba1b8021f67",
+        "entities": {
+            "Bill Neukom": "m.03cyzbv"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0117q3yz"
+            }
+        ]
+    },
+    {
+        "question": "Which country shares a border with France that has an iso alpha of 3 CHE?",
+        "qid": "WebQTrn-241_f0ffa14797f7486fb0510a740e1cc8d6",
+        "entities": {
+            "Country": "m.01mp",
+            "France": "m.0f8l9c",
+            "CHE": "\"CHE\""
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06mzp"
+            }
+        ]
+    },
+    {
+        "question": "In what timezone is the governmental jurisdiction that held the legislative session of the Colorado recall election in 2013?",
+        "qid": "WebQTrn-3673_b0f2d7005d48b548c7022ad46eccfd31",
+        "entities": {
+            "Colorado recall election, 2013": "m.0x0v0nd"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02hczc"
+            }
+        ]
+    },
+    {
+        "question": "Who did Armie Hammer play in The Social Network?",
+        "qid": "WebQTest-106_8a7ae3422867fd4b2d40b06930915468",
+        "entities": {
+            "The Social Network": "m.0dd9_bb",
+            "Armie Hammer": "m.03y9941"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.09tb_f3"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.09tbj8d"
+            }
+        ]
+    },
+    {
+        "question": "Lou Seal is the mascot for the team that last won the World Series when?",
+        "qid": "WebQTest-832_c334509bb5e02cacae1ba2e80c176499",
+        "entities": {
+            "Lou Seal": "m.03_dwn"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0117q3yz"
+            }
+        ]
+    },
+    {
+        "question": "The official symbol of this time zone is Si quaeris peninsulam amoenam circumspice usa.?",
+        "qid": "WebQTrn-1283_5523febd1dd9c623d830ca7301539649",
+        "entities": {
+            "Si quaeris peninsulam amoenam circumspice": "m.07f14h"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02fqwt"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02_37z"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02hcv8"
+            }
+        ]
+    },
+    {
+        "question": "What main trading partner of China is the geographic division where the political system includes the job Second Vice-President?",
+        "qid": "WebQTrn-2664_51d761aa070710bb5c4b31c8f0dc9ac7",
+        "entities": {},
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06s_2"
+            }
+        ]
+    },
+    {
+        "question": "What are the major languages spoken in the regions that produce Retsina wine?",
+        "qid": "WebQTrn-3151_6c814f2ef8a8f703137524a5ecf17ba4",
+        "entities": {
+            "Retsina": "m.01jg9j"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.012v8"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0349s"
+            }
+        ]
+    },
+    {
+        "question": "In the country where Obolon Zhigul beer is made, what is the official language?",
+        "qid": "WebQTrn-2319_3d63b6329462313cd668b2ca83dcd19d",
+        "entities": {
+            "Obolon Zhigul": "m.04dqw00"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02hxc3j"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01h2j_"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02ztjwg"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.012v8"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06b_j"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.019yz7"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0cjk9"
+            }
+        ]
+    },
+    {
+        "question": "Where is the end of the river that originates in Shannon Pot?",
+        "qid": "WebQTrn-2483_4690cc164c56aa2e35bbe6ddfb171bea",
+        "entities": {
+            "Shannon Pot": "m.09z2vb"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02py6xf"
+            }
+        ]
+    },
+    {
+        "question": "What form of government is used in the governmental jurisdiction that includes the Cabinet of Israel?",
+        "qid": "WebQTrn-1938_1ae1a6be469266690c163ee3f6e0293c",
+        "entities": {
+            "Cabinet of Israel": "m.0czhnw"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.018wl5"
+            }
+        ]
+    },
+    {
+        "question": "In what films has the actor from \" Rock Mafia Presents: The Big Bang\" appeared?",
+        "qid": "WebQTest-1923_60c98dd577b89e982f0432c395e26743",
+        "entities": {
+            "Rock Mafia Presents: The Big Bang": "m.0w1x037"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.080gfc8"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.010ls0tb"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0w1x037"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02x3lt7"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0swngjg"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0g56xqy"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.05h43ls"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.064qvcw"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.07ykkx5"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06fcqw"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.027pfg"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0crsmk2"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0cmddrx"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0cs2t3x"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0bc5ny"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.042w0v2"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.03ck042"
+            }
+        ]
+    },
+    {
+        "question": "What state with a symbol of a Ring-necked Pheasant does the Missouri River bisect?",
+        "qid": "WebQTest-626_40c4288896adffe97901ff78149912e5",
+        "entities": {
+            "Missouri River": "m.04ykz",
+            "Ring-necked Pheasant": "m.01bx84"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06mz5"
+            }
+        ]
+    },
+    {
+        "question": "What award nominated movie starring Ron Howard that was based on the book by Sylvia Nasar?",
+        "qid": "WebQTrn-567_94ad90ab85ded4cd5d0680cdd5c121aa",
+        "entities": {
+            "Ron Howard": "m.0g2lq",
+            "Based on the book by Sylvia Nasar": "\"Based on the book by Sylvia Nasar\"@en"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.09m6kg"
+            }
+        ]
+    },
+    {
+        "question": "Who composed the song \"Thinkin About-U!\"?",
+        "qid": "WebQTrn-2428_7f8dba203353c3b7569b073ccb09dae6",
+        "entities": {
+            "Thinkin About-U!": "m.0zlc1qy"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.09jwl"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.09l65"
+            }
+        ]
+    },
+    {
+        "question": "What movies was Tupac in that were produced by John Singleton?",
+        "qid": "WebQTrn-2784_a498cfbc65b63a5a550022b508cbf059",
+        "entities": {
+            "John Singleton": "m.014gc6",
+            "Tupac Shakur": "m.07pzc"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06974q"
+            }
+        ]
+    },
+    {
+        "question": "What German-speaking country has an iso alpha 3 of AUT?",
+        "qid": "WebQTest-1251_9d422f19ab24972365b32f78f455c1c6",
+        "entities": {
+            "German Language": "m.04306rv",
+            "AUT": "\"AUT\""
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0h7x"
+            }
+        ]
+    },
+    {
+        "question": "Where does Lala Anthony live, which is also where Isadore Rudnick was born?",
+        "qid": "WebQTrn-452_53e9ff82331f9989379d894e684f1546",
+        "entities": {
+            "Carmelo Anthony": "m.03l26m",
+            "Isadore Rudnick": "g.11_p4_7qv"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02_286"
+            }
+        ]
+    },
+    {
+        "question": "What current is used in the country with government position title President of Dominican Republic?",
+        "qid": "WebQTrn-2026_0a7206e06485b4daf5f8968cec1333dc",
+        "entities": {
+            "President of the Dominican Republic": "g.120vz7rb"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04lt7_"
+            }
+        ]
+    },
+    {
+        "question": "What Portuguese speaking country that has the foreign direct net flow of -1019690513?",
+        "qid": "WebQTrn-60_7ce285805d4eb1a2134b110a2145431e",
+        "entities": {
+            "Portuguese Language": "m.05zjd",
+            "-1019690513": "\"-1019690513\""
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04wlh"
+            }
+        ]
+    },
+    {
+        "question": "What movies is from the country of Germany and was directed by Ron Howard?",
+        "qid": "WebQTrn-567_46a304cecca0e072121d7dc42befb590",
+        "entities": {
+            "Ron Howard": "m.0g2lq",
+            "Germany": "m.0345h"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0crrc8"
+            }
+        ]
+    },
+    {
+        "question": "What nation that neighbors France is the home of Prignon FantÃ´me La Gourmande beer?",
+        "qid": "WebQTrn-241_e4ddf37f1344bc533ac60131a15569f9",
+        "entities": {
+            "Country": "m.01mp",
+            "Prignon Fantôme La Gourmande": "m.04dq961",
+            "France": "m.0f8l9c"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0154j"
+            }
+        ]
+    },
+    {
+        "question": "In what events ending prior to 3 February 2008 did the Giants win the Super Bowl?",
+        "qid": "WebQTrn-1001_6bcfac70e63efec42212159c644a593a",
+        "entities": {
+            "Super bowl": "m.01xljv1",
+            "New York Giants": "m.05gg4",
+            "2008-02-03": "\"2008-02-03\"^^<http://www.w3.org/2001/XMLSchema#dateTime>"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.076sw"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.076v7"
+            }
+        ]
+    },
+    {
+        "question": "In \"Juice,\" what character was played by the artist nominated for awards for \"Dear Mama\"?",
+        "qid": "WebQTrn-64_b07e107c65bc0fd544f059414e879d6f",
+        "entities": {
+            "Dear Mama": "m.0zhg5s",
+            "Juice": "m.08w51z"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0h5rvlw"
+            }
+        ]
+    },
+    {
+        "question": "What was the first novel to be written by author who wrote the lyrics for \"That very wise man, Old Aesop\"?",
+        "qid": "WebQTest-375_b9c59f54eef5d5d0b700b4f6d85ef011",
+        "entities": {
+            "That very wise man, Old Aesop": "m.0gbn0gr",
+            "Book": "m.01xryvm"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.015cf8"
+            }
+        ]
+    },
+    {
+        "question": "What other languages should I learn when I visit the place where BokmÃ¥l is a spoken language?",
+        "qid": "WebQTest-1840_220226a8c21cea9b689f213a2f8db2a5",
+        "entities": {
+            "Bokmål": "m.01648r"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02glq_"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06f7kz"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.05f_3"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.09xy1k"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04d36l"
+            }
+        ]
+    },
+    {
+        "question": "Team owner Wyc Grousbeck last won the Championship when?",
+        "qid": "WebQTrn-2209_6bddb2cfae99a6fca8b5bb40631d71eb",
+        "entities": {
+            "Wyc Grousbeck": "m.0b7hk2"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0403mzq"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0cs2f4"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0cs2n0"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0cs222"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.08x9xt"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0cs24h"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0cs2fv"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.08dxfs"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0cs27l"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.09l8zn"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0cs266"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0cs2h6"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.08x9zw"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0cs2hx"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0cs1gb"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.08x9wd"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0cs29b"
+            }
+        ]
+    },
+    {
+        "question": "What US State with 1005163 as total population does the Missouri river bisect?",
+        "qid": "WebQTest-626_652dc024fce1331f67facc4995feba18",
+        "entities": {
+            "Missouri River": "m.04ykz",
+            "1005163": "\"1005163\""
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.050l8"
+            }
+        ]
+    },
+    {
+        "question": "Which producer of Artifact dated Scarlett Johansson?",
+        "qid": "WebQTest-213_899618ed986b504e3b952eacca7ebb0d",
+        "entities": {
+            "Scarlett Johansson": "m.02114t",
+            "Artifact": "m.0p79q5c"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02fybl"
+            }
+        ]
+    },
+    {
+        "question": "What is the form of government in the country after 1979 and is where Afshar is spoken?",
+        "qid": "WebQTest-1306_1514f1e9c4973110faa2ad25559c0435",
+        "entities": {
+            "Afshar language": "m.0fq4jq"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01fgl7"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01d9r3"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.07lg6"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01fpfn"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.018wl5"
+            }
+        ]
+    },
+    {
+        "question": "What college, which had 5,157 postgraduates, did Harry S. Truman attend?",
+        "qid": "WebQTrn-1532_ca58ec590e4701a8286d095fe6b8bcc9",
+        "entities": {
+            "Harry S. Truman": "m.09bg4l",
+            "College/University": "m.01y2hnl",
+            "5157": "\"5157\""
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.016vf7"
+            }
+        ]
+    },
+    {
+        "question": "Gilbert Islands is in which Oceania country?",
+        "qid": "WebQTest-1000_a9122e6c3ec58aea7483e18c7074128a",
+        "entities": {
+            "Oceania": "m.05nrg",
+            "Gilbert Islands": "m.0101msg_",
+            "Country": "\"Country\""
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.047t_"
+            }
+        ]
+    },
+    {
+        "question": "In which countries do people speak Portuguese, and the country calling code is greater than fifty-five?",
+        "qid": "WebQTrn-60_2ee819ba474253fdefba8cf094f02553",
+        "entities": {
+            "Portuguese Language": "m.05zjd",
+            "55.0": "\"55.0\"^^<http://www.w3.org/2001/XMLSchema#float>"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02kcz"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.05r4w"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0d05w3"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04wlh"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0hg5"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.036b_"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0j4b"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02lx0"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.034m8"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04thp"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01nqj"
+            }
+        ]
+    },
+    {
+        "question": "Where is the state that held the United States Senate election in Kentucky in 2008 located?",
+        "qid": "WebQTrn-2286_6f8a4ec144197d617a362ba8798b18d0",
+        "entities": {
+            "United States Senate election in Kentucky, 2008": "m.02qjjkg"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.09c7w0"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0hzc9m5"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04_1l0v"
+            }
+        ]
+    },
+    {
+        "question": "Which Taylor Lautner movie has a sequel titled \"The Twilight Saga: Breaking Dawn - Part 1\"?",
+        "qid": "WebQTrn-25_23b0132339644b875bf6a966c5b0c131",
+        "entities": {
+            "Taylor Lautner": "m.07ldhs",
+            "The Twilight Saga: Breaking Dawn - Part 1": "m.075wx89"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.075wx7_"
+            }
+        ]
+    },
+    {
+        "question": "What inspiration of F. Scott Fitzgerald said, \"Business today consists in persuading crowds\"?",
+        "qid": "WebQTrn-894_d4bc649d0d9285fcf788058ec07823ef",
+        "entities": {
+            "F. Scott Fitzgerald": "m.02zjd",
+            "Business today consists in persuading crowds.": "m.02kpjnv"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.07g2b"
+            }
+        ]
+    },
+    {
+        "question": "What style paintings - such as those by Frida Kahlo - are featured in the film The Golden Age?",
+        "qid": "WebQTrn-1484_61cadfe4eb47d235bb93cd98d29914c3",
+        "entities": {
+            "Frida Kahlo": "m.015k04",
+            "The Golden Age": "m.01fkdb"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.073_6"
+            }
+        ]
+    },
+    {
+        "question": "What are the names of the Walt Disney kids who died in Santa Monica?",
+        "qid": "WebQTrn-62_ba20c944a6a2d8cd25ab15f106002cef",
+        "entities": {
+            "Walt Disney": "m.081nh",
+            "Santa Monica": "m.06_kh"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.07kyh5"
+            }
+        ]
+    },
+    {
+        "question": "Which amusement park, with its Dragon's Den ride, is in downtown Sacramento?",
+        "qid": "WebQTest-1513_fd1f7b01422ed781a7688691219784f8",
+        "entities": {
+            "Dragon's Den": "m.0j11548",
+            "Sacramento": "m.07bcn"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.03mdd2l"
+            }
+        ]
+    },
+    {
+        "question": "What type of government is practiced in Japan in the birthplace of Emanuel Lasker?",
+        "qid": "WebQTrn-2429_3ce332b703593e71708a5604865c5758",
+        "entities": {
+            "Emanuel Lasker": "m.01kfm7",
+            "Japan": "m.03_3d"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01q20"
+            }
+        ]
+    },
+    {
+        "question": "A person who was once born in Gingins was born where?",
+        "qid": "WebQTrn-3446_a3875ee1db404486f5502bc39b8e29ec",
+        "entities": {
+            "Gingins": "m.09nx79"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04r5c"
+            }
+        ]
+    },
+    {
+        "question": "What is the economy of the country that employs the Premier of the Soviet Union?",
+        "qid": "WebQTrn-2292_2b3b9f6946b4568e42ff7cf53cd7cb5d",
+        "entities": {
+            "Premier of the Soviet Union": "m.01zpyd"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06zgbt"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.025tbxf"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0glnsx"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01fkst"
+            }
+        ]
+    },
+    {
+        "question": "The actor that played Hark Hanson attended which college?",
+        "qid": "WebQTrn-76_f29b3764fd88d76c5faa9ea947c57286",
+        "entities": {
+            "Hark Hanson": "m.0h2rmwk",
+            "College/University": "m.01y2hnl"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02fy0z"
+            }
+        ]
+    },
+    {
+        "question": "What is the type of money used where the Cubalaya breed is from?",
+        "qid": "WebQTrn-3694_12efa4cee5acdd0e21df02422bc9cbdd",
+        "entities": {
+            "Cubalaya": "m.0984ll"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.049p6c"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.049p2z"
+            }
+        ]
+    },
+    {
+        "question": "What college with organization headquarters located in New York City did James Baldwin attend?",
+        "qid": "WebQTrn-1577_e296550bdbe5592272f3980a755ff750",
+        "entities": {
+            "James Baldwin": "m.017_pb",
+            "New York City": "m.02_286"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06thjt"
+            }
+        ]
+    },
+    {
+        "question": "What popular sport in Spain is sponsored by Iberdrola?",
+        "qid": "WebQTrn-1841_034ac92648bf25647da95a8f8c27d0f0",
+        "entities": {
+            "Iberdrola": "m.08x83f",
+            "Spain": "m.06mkj"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02w64f"
+            }
+        ]
+    },
+    {
+        "question": "What happened in Dunkirk during WW2 involving Gerd Von Rundstet?",
+        "qid": "WebQTest-989_1fd20dc9a71887010a0cd60bfd0915c8",
+        "entities": {
+            "Gerd von Rundstedt": "m.015bhj",
+            "World War II": "m.081pw",
+            "Dunkirk": "m.0md6f"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0jpb7"
+            }
+        ]
+    },
+    {
+        "question": "What is the kind of money that one would use in the nation whose currency is the Cuban peso?",
+        "qid": "WebQTrn-3694_73bb87158a068132f7511dc63566c924",
+        "entities": {
+            "Cuban peso": "m.049p2z"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.049p6c"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.049p2z"
+            }
+        ]
+    },
+    {
+        "question": "What high school was attended by the actor who played Sister Rosemary?",
+        "qid": "WebQTrn-837_690725e14115ca059d1bcbfb022bbf1f",
+        "entities": {
+            "Sister Rosemary": "m.0gxnk1p"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.09v6gkq"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01lgjy"
+            }
+        ]
+    },
+    {
+        "question": "What school did the author of the lyrics for \"Elessar's oath\" attend?",
+        "qid": "WebQTest-1817_81c0ebf9fe16672cac0e64470d756f17",
+        "entities": {
+            "Elessar’s Oath": "m.0zhmw44"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0b_b0v"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0ylvj"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.025ycq"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.07tgn"
+            }
+        ]
+    },
+    {
+        "question": "Which of Ron Howard's movies has a netflix_id higher than 60002655?",
+        "qid": "WebQTrn-567_b63fe0fde281c871990cc523c2df1e9b",
+        "entities": {
+            "Ron Howard": "m.0g2lq",
+            "60002655.0": "\"60002655.0\"^^<http://www.w3.org/2001/XMLSchema#float>"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0dgkzwj"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.079h70"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.07cqxs"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0crwz48"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06zsyy6"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06w2sxf"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.05y48m"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.09m6kg"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0dqwvw"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06r6r_"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0crrhfn"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0gxdf11"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02rylzd"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0hv8w"
+            }
+        ]
+    },
+    {
+        "question": "List the offices held by the subject of the film Young Mr. Lincoln.?",
+        "qid": "WebQTrn-1939_80bc69215f6fdb6c93a8cc8494b116e9",
+        "entities": {
+            "Young Mr. Lincoln": "m.03fy0j"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.052m6c2"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.060d2"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02_bcst"
+            }
+        ]
+    },
+    {
+        "question": "What is the school mascot of the organization where you'd find the Syracuse University Video Production Unit?",
+        "qid": "WebQTrn-2478_e53e37596014fb9723a81c577c51b4f3",
+        "entities": {
+            "Syracuse University Video Production Unit": "m.0_fk2r3"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.03c0lxb"
+            }
+        ]
+    },
+    {
+        "question": "What is the form of government where the Orloff chicken comes from?",
+        "qid": "WebQTrn-1758_ee96ef39147e9369f0285bce0b21812e",
+        "entities": {
+            "Orloff chicken": "m.047scvf"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01fgl7"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01d9r3"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.07lg6"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01fpfn"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.018wl5"
+            }
+        ]
+    },
+    {
+        "question": "What is the national flower of the location where the movie \"Blue Hawaii\" is set?",
+        "qid": "WebQTest-450_4b78ad6803335c5b6f1e67c69848cdca",
+        "entities": {
+            "State flower": "m.04627gn",
+            "Blue Hawaii": "m.03rhlt"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.03dkj_"
+            }
+        ]
+    },
+    {
+        "question": "What structure opened in 1922 in Hollywood, CA?",
+        "qid": "WebQTest-1012_73741811f34519b29f7d19ccfd4d9553",
+        "entities": {
+            "Hollywood": "m.0f2wj",
+            "1922": "\"1922\"^^<http://www.w3.org/2001/XMLSchema#dateTime>"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.029x2z"
+            }
+        ]
+    },
+    {
+        "question": "Who fought in the battle of Vicksburg whose capital is Richmond?",
+        "qid": "WebQTest-1797_55859b14711d8a72722e48869e7af7be",
+        "entities": {
+            "Richmond": "m.0dzt9",
+            "Siege of Vicksburg": "m.01hf7f"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.020d5"
+            }
+        ]
+    },
+    {
+        "question": "What colleges and universities did President Kennedy attend?",
+        "qid": "WebQTrn-1405_32fd6bcd379a666c1b479eb00ba3dfc6",
+        "entities": {
+            "John F. Kennedy": "m.0d3k14"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.05zl0"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.03ksy"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01mpwj"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02bb47"
+            }
+        ]
+    },
+    {
+        "question": "What site that you can see near the Grand Canyon contains the neighborhood known as East Side?",
+        "qid": "WebQTrn-2871_17d0953471b7ad49d21027d68fc58dcf",
+        "entities": {
+            "East Side": "m.025_8qh",
+            "Grand Canyon": "m.0cns5"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0d35y"
+            }
+        ]
+    },
+    {
+        "question": "Which country borders France and has a per capita emissions rate per metric ton is 10.126703?",
+        "qid": "WebQTrn-241_97bfe74dd244e1dbe7c6c6611278d3da",
+        "entities": {
+            "Country": "m.01mp",
+            "France": "m.0f8l9c",
+            "10.126703": "\"10.126703\""
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0154j"
+            }
+        ]
+    },
+    {
+        "question": "What movie released to video did Ron Howard do?",
+        "qid": "WebQTrn-567_2a2de50d3b65cc5d2c88f54e283a4b8a",
+        "entities": {
+            "Ron Howard": "m.0g2lq",
+            "Video": "m.07z4p"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0hv8w"
+            }
+        ]
+    },
+    {
+        "question": "What is the capital city of the country with the National Anthem Aegukga?",
+        "qid": "WebQTrn-3166_cb7256fc0312551734293d80792d8d90",
+        "entities": {
+            "Aegukga": "m.01jxqx"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0hsqf"
+            }
+        ]
+    },
+    {
+        "question": "To what political party does the public speaker who spoke about energy development belong?",
+        "qid": "WebQTest-719_bcc7cf86fe716e0c10225e1a98b719bb",
+        "entities": {
+            "Energy development": "m.02mg6f"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0d075m"
+            }
+        ]
+    },
+    {
+        "question": "In what country is the national anthem Die Stem van Suid-Afrika and people speak Portuguese?",
+        "qid": "WebQTrn-60_ea64bd8530c79e21438a71faed039caf",
+        "entities": {
+            "Portuguese Language": "m.05zjd",
+            "Die Stem van Suid-Afrika": "m.01_w8_"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0hzlz"
+            }
+        ]
+    },
+    {
+        "question": "Where did the composer of She's Everything grow up?",
+        "qid": "WebQTrn-2215_7d99f28971c0ff3aa8437737f81f16b2",
+        "entities": {
+            "She's Everything": "m.02vy9_q"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.010xmb"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the currency used in the birthplace of the breed Canchim?",
+        "qid": "WebQTrn-484_14401f79da415edb1294256b2504a591",
+        "entities": {
+            "Canchim": "m.02232"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.03385m"
+            }
+        ]
+    },
+    {
+        "question": "What does the religion who has a deity \"The Father\" call their God?",
+        "qid": "WebQTrn-372_301c8094ece19fea6abf81373a2cb78d",
+        "entities": {
+            "The Father": "m.077_fbm"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.045m1_"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.03qsc"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.077_fbm"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0d05l6"
+            }
+        ]
+    },
+    {
+        "question": "In the nation that has the Badakhshan province, what religions are practiced?",
+        "qid": "WebQTrn-1077_0c34ca057060e35aa5c74fbbca682dee",
+        "entities": {
+            "Badakhshan Province": "m.04pwfx"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.078tg"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06pq6"
+            }
+        ]
+    },
+    {
+        "question": "Who was the Ohio Governor in 2011 who was a Christian?",
+        "qid": "WebQTest-12_96449ea99c483410641ffbbe84e44f1c",
+        "entities": {
+            "Christianity": "m.01lp8",
+            "Ohio": "m.05kkh",
+            "Governor": "m.0fkvn",
+            "2011.0": "\"2011.0\"^^<http://www.w3.org/2001/XMLSchema#float>"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02zzm_"
+            }
+        ]
+    },
+    {
+        "question": "What building in Vienna, Austria has 50 floors?",
+        "qid": "WebQTest-361_34001b58f07830a1b3a617319d0f84ed",
+        "entities": {
+            "Vienna": "m.0fhp9",
+            "50": "\"50\""
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0b0lgr"
+            }
+        ]
+    },
+    {
+        "question": "What location does the second level division Salcedo a part of?",
+        "qid": "WebQTrn-3100_0c8bcc717d50c92c31ff802641504b43",
+        "entities": {
+            "Salcedo": "m.02869mk"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.059g4"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0jsr7mh"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04pnx"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01rll_"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.07c5l"
+            }
+        ]
+    },
+    {
+        "question": "What language, with the initials EL, do the people of Cyprus speak?",
+        "qid": "WebQTrn-2875_625df54cc64b9a3383407af99190cb04",
+        "entities": {
+            "Cyprus": "m.01ppq",
+            "el": "\"el\""
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0349s"
+            }
+        ]
+    },
+    {
+        "question": "Of the films in which Adam Sandler performed, which one has released latest?",
+        "qid": "WebQTrn-1677_2a1c28332b99af705e4c180cdb1ea457",
+        "entities": {
+            "Adam Sandler": "m.0pz91"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.010fch95"
+            }
+        ]
+    },
+    {
+        "question": "Of  the main trading partners of China ,which country has an iso of 3166-1 alpha-3 of DZ?",
+        "qid": "WebQTrn-2664_c04548701c89d3af786e8b8cc112af82",
+        "entities": {},
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0h3y"
+            }
+        ]
+    },
+    {
+        "question": "Where is the topic of the image \"Whistler Skilift 040\" found?",
+        "qid": "WebQTrn-261_7bc18657d5150879fc643779b6ad5e48",
+        "entities": {
+            "Whistler Skilift 040": "m.03ttk28"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.059g4"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.08p698"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.015jr"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.019f_v"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.05q3snr"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0d060g"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01jwb2"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0183r6"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.08pqh0"
+            }
+        ]
+    },
+    {
+        "question": "Who is the coach of the sports team that plays at Pitt Stadium?",
+        "qid": "WebQTrn-237_5e35ac717c32f97bcc0e3a34f710dfd1",
+        "entities": {
+            "Pitt Stadium": "m.038_tr"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0c5f_j"
+            }
+        ]
+    },
+    {
+        "question": "During which wars did France participate in using an army of less that 16544 soldiers?",
+        "qid": "WebQTrn-2653_57622031abc6042a5a02dcf3b4300552",
+        "entities": {
+            "France": "m.0f8l9c",
+            "16544.0": "\"16544.0\"^^<http://www.w3.org/2001/XMLSchema#float>"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.050g2j"
+            }
+        ]
+    },
+    {
+        "question": "What movie starring Adam Sandler was nominated for the \"and his diapers\" Award?",
+        "qid": "WebQTrn-1677_a7b0673d818a426f402b6a2c2573d137",
+        "entities": {
+            "Adam Sandler": "m.0pz91",
+            "and his diapers": "\"and his diapers\"@en"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.074w86"
+            }
+        ]
+    },
+    {
+        "question": "What college with postgraduate count 11756 did Russell Wilson go to?",
+        "qid": "WebQTrn-3744_95a2f0f12b9a0a45694a398e5c944cca",
+        "entities": {
+            "Russell Wilson": "m.05c10yf",
+            "College/University": "m.01y2hnl",
+            "11756": "\"11756\""
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01yx1b"
+            }
+        ]
+    },
+    {
+        "question": "What languages in the North Germanic Languages family of languages do people in Denmark speak?",
+        "qid": "WebQTrn-3384_90cab32dc009a2879e9d83d16a353282",
+        "entities": {
+            "North Germanic languages": "m.0140kd",
+            "Denmark": "m.0k6nt"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0295r"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02hrcqd"
+            }
+        ]
+    },
+    {
+        "question": "Where did the author of Poor Richard's Almanac of 1757 grow up?",
+        "qid": "WebQTrn-3038_0b5041659b357b7246a23ac30d7f6b29",
+        "entities": {
+            "Poor Richard's Almanac of 1757": "m.040v_yc"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01cx_"
+            }
+        ]
+    },
+    {
+        "question": "What movie starring Taylor Lautner has a prequel named \"The Twilight Saga: New Moon\"?",
+        "qid": "WebQTrn-25_9cff1917b216e0677c77d95668afba83",
+        "entities": {
+            "Taylor Lautner": "m.07ldhs",
+            "The Twilight Saga: New Moon": "m.05pdh86"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.075wx7_"
+            }
+        ]
+    },
+    {
+        "question": "What filem feature Charlie Hunnam and was produced by Jon Favreau filmography?",
+        "qid": "WebQTest-537_c8e0c5670b9fa714ebab6aaeb0205736",
+        "entities": {
+            "Jon Favreau filmography": "m.01twdk",
+            "Charlie Hunnam": "m.057yk8"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.079s_7"
+            }
+        ]
+    },
+    {
+        "question": "Who were JFK's brothers, who also served in the political party the Democratic Party?",
+        "qid": "WebQTest-743_b30993b3354e5b4bb3ded1e07150aef8",
+        "entities": {
+            "Male": "m.05zppz",
+            "John F. Kennedy": "m.0d3k14",
+            "Democratic Party": "m.0d075m"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0194xc"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06hx2"
+            }
+        ]
+    },
+    {
+        "question": "Which country who trades with Japan has a country calling code of 249?",
+        "qid": "WebQTrn-3084_d7a8cbddd43733cfb78c3d41af704745",
+        "entities": {
+            "Japan": "m.03_3d",
+            "249": "\"249\""
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06tw8"
+            }
+        ]
+    },
+    {
+        "question": "Who did Scarlett Johansson date that also wrote the music for \"The Devil and the Deep Blue Sea\"?",
+        "qid": "WebQTest-213_2c4862f486291f7fae3f1a0a19e5dc4d",
+        "entities": {
+            "Scarlett Johansson": "m.02114t",
+            "The Devil and the Deep Blue Sea": "m.0gx8r74"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0j1yf"
+            }
+        ]
+    },
+    {
+        "question": "Which bordering country of Germany has  nomianal gdp of 279500000000.0?",
+        "qid": "WebQTrn-849_cf6cc4cc9ed790243a390f155ae72256",
+        "entities": {
+            "Country": "m.01mp",
+            "Germany": "m.0345h",
+            "279500000000.0": "\"279500000000.0\""
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0h7x"
+            }
+        ]
+    },
+    {
+        "question": "What countries are in the location that contains Terekti District?",
+        "qid": "WebQTrn-513_59d4a153f9ac424bfd0d9a39a5704027",
+        "entities": {
+            "Country": "m.01mp",
+            "Terekti District": "m.0415b8m"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.03msdy"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.021hd9"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.03pn9"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0d0kn"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01rdm0"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04w4s"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.08z6cq"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06c1y"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.015qh"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0c81v"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01rhrd"
+            }
+        ]
+    },
+    {
+        "question": "Which portuguese speaking country is home to Anren Town, Sichuan?",
+        "qid": "WebQTrn-60_edc922a0faa1e47614eb7e6effe2d1a1",
+        "entities": {
+            "Anren Town, Sichuan": "m.0110_1rf",
+            "Portuguese Language": "m.05zjd"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0d05w3"
+            }
+        ]
+    },
+    {
+        "question": "What politician held an office between 1872-1911 and fought in the Battle of Vicksburg?",
+        "qid": "WebQTest-1797_f2a2e2e91494abbc29bdf70800a5910e",
+        "entities": {
+            "Siege of Vicksburg": "m.01hf7f",
+            "1872-11": "\"1872-11\"^^<http://www.w3.org/2001/XMLSchema#dateTime>"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.07t2k"
+            }
+        ]
+    },
+    {
+        "question": "Who played as Barney and also starred in the film Barney Live in New York City?",
+        "qid": "WebQTrn-2754_22aa38132c7f99bfbb5cbce0db25b211",
+        "entities": {
+            "Barney Live in New York City": "m.027zqx4",
+            "Barney": "m.0j_84dv",
+            "Barney & Friends": "m.01f4yy"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.07y5tw"
+            }
+        ]
+    },
+    {
+        "question": "What three Cities did Lala the subject of the film Carmelo's Way call home?",
+        "qid": "WebQTrn-452_e1d6f53f49be4abf9b71b6f18c67ac13",
+        "entities": {
+            "Carmelo's Way": "m.012z6hcz"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.094jv"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0cr3d"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02_286"
+            }
+        ]
+    },
+    {
+        "question": "What film featured Taylor Swift and was directed by Deborah Aquila?",
+        "qid": "WebQTest-538_937f2867131741f42a0eefeea5543786",
+        "entities": {
+            "Deborah Aquila": "m.03xk618",
+            "Taylor Swift": "m.0dl567"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06_wqk4"
+            }
+        ]
+    },
+    {
+        "question": "What Currency is accepted in the Country that was involved in the military conflict know as the \"Battle of Kulikovo\"?",
+        "qid": "WebQTrn-3335_4bedefa2f2f0c2843bcf7407cd03420c",
+        "entities": {
+            "Battle of Kulikovo": "m.01975w"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01hy_q"
+            }
+        ]
+    },
+    {
+        "question": "How did the artist who was nominated for an award for \"The Candy Man\" die?",
+        "qid": "WebQTrn-2311_c00aa883a19ff0f98199e4bc12c94dca",
+        "entities": {
+            "The Candy Man": "m.0136k0d"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.054rzc"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.021plp"
+            }
+        ]
+    },
+    {
+        "question": "What do Catholics call their god, who was born in Judea?",
+        "qid": "WebQTrn-372_908bc694cfc986271573e7eb4cf5ad12",
+        "entities": {
+            "Judea": "m.065sh7",
+            "Catholicism": "m.0c8wxp"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.045m1_"
+            }
+        ]
+    },
+    {
+        "question": "Which movies featured Taylor swift and music by John Debney?",
+        "qid": "WebQTest-538_65e7de970f6844e8520d7785799ec19e",
+        "entities": {
+            "John Debney": "m.01mkn_d",
+            "Taylor Swift": "m.0dl567"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.06_wqk4"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02x3lt7"
+            }
+        ]
+    },
+    {
+        "question": "What does the author of Dreams from my Father have a degree in?",
+        "qid": "WebQTrn-3170_88427e4cf8c94effb8217cddfd827261",
+        "entities": {
+            "Dreams from My Father": "m.028xzkj"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.062z7"
+            }
+        ]
+    },
+    {
+        "question": "What kind of government was used in the governmental jurisdiction that included the governmental body Roman Sentate?",
+        "qid": "WebQTest-557_ca0ea9db8cf1e1f9728c53a7470cf243",
+        "entities": {
+            "Roman Senate": "m.0403vf7"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0d8tn"
+            }
+        ]
+    },
+    {
+        "question": "In 2008 Michigan, USA, which timezone was at where the United States Senate election?",
+        "qid": "WebQTrn-1283_b2e6d4640dbaeac264d4e5d0ebee8455",
+        "entities": {
+            "United States Senate election in Michigan, 2008": "m.02qz4br"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02fqwt"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02_37z"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.02hcv8"
+            }
+        ]
+    },
+    {
+        "question": "Who held his governmental position from December 12, 1808 and was Governor of Ohio in 2011?",
+        "qid": "WebQTest-12_c701ad2b5b8ef3f3ed26dd2ed8703d05",
+        "entities": {
+            "Ohio": "m.05kkh",
+            "Governor": "m.0fkvn",
+            "1808-12-12": "\"1808-12-12\"^^<http://www.w3.org/2001/XMLSchema#dateTime>",
+            "2011.0": "\"2011.0\"^^<http://www.w3.org/2001/XMLSchema#float>"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0340r0"
+            }
+        ]
+    },
+    {
+        "question": "What countries and continents is the second level division Comendador, Elias Pina a part of?",
+        "qid": "WebQTrn-3100_de5bb2b6c6727d40089ae17f2650f97d",
+        "entities": {
+            "Comendador, Elías Piña": "m.06xhm0"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.059g4"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0jsr7mh"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04pnx"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01rll_"
+            },
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.07c5l"
+            }
+        ]
+    },
+    {
+        "question": "What college founded in 1848 did Russell Wilson attend?",
+        "qid": "WebQTrn-3744_753e50ef4f21aa5fb14ed5f72ae77636",
+        "entities": {
+            "Russell Wilson": "m.05c10yf",
+            "College/University": "m.01y2hnl",
+            "1848": "\"1848\"^^<http://www.w3.org/2001/XMLSchema#dateTime>"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01yx1b"
+            }
+        ]
+    },
+    {
+        "question": "What Irvin Kershner directed movie was Kim Richards in?",
+        "qid": "WebQTest-1785_8bad0a0cbda8b0e72f6a60d6917b95eb",
+        "entities": {
+            "Irvin Kershner": "m.03y0td",
+            "Kim Richards": "m.08l257"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0dnh5w"
+            }
+        ]
+    },
+    {
+        "question": "The country with San Jose as its capital uses what as its currency?",
+        "qid": "WebQTrn-2314_b274ade1f00c84f7244131327c785b4a",
+        "entities": {
+            "San José": "m.01g3b2"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.04wccn"
+            }
+        ]
+    },
+    {
+        "question": "The location that appointed Dmitry Medvedev to governmental position uses what kind of money?",
+        "qid": "WebQTrn-3335_c071c552853eb739a0ff0c67bb9ed366",
+        "entities": {
+            "Dmitry Medvedev": "m.08wdkk"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.01hy_q"
+            }
+        ]
+    },
+    {
+        "question": "What is the title of the book written by solder in the Texas Air National Guard?",
+        "qid": "WebQTest-1547_316b05297664f68c8dd5e61f08130769",
+        "entities": {
+            "Texas Air National Guard": "m.028cg1y",
+            "Book": "m.01xryvm"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0h3wdwz"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the place that was home to the 2005 Animation Block Party and the home of Lala Anthony?",
+        "qid": "WebQTrn-452_f8c717f06ff656fba2fabfb354030958",
+        "entities": {
+            "Carmelo Anthony": "m.03l26m",
+            "2005 Animation Block Party": "m.0107l4bp"
+        },
+        "answer": [
+            {
+                "answer_type": "Entity",
+                "answer_argument": "m.0cr3d"
+            }
+        ]
+    }
+]

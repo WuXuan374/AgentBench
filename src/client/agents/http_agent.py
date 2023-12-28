@@ -217,8 +217,7 @@ class HTTPAgent(AgentClient):
             else:
                 resp = resp.json()
                 return self.return_format.format(response=resp)
-            # time.sleep(_ + 2)
-            time.sleep(_) # 使用 ernie-bot 的话，应该不存在 rate limit
+            time.sleep(_ + 2)
         raise Exception("Failed.")
 
 class HTTPAgentOpenAI(AgentClient):
@@ -232,6 +231,7 @@ class HTTPAgentOpenAI(AgentClient):
         body=None,
         headers=None,
         api_key_list_file="configs/apikeys/openai_keys_test.json",
+        max_retries=10,
         return_format="{response}",
         prompter=None,
         **kwargs,
@@ -243,6 +243,7 @@ class HTTPAgentOpenAI(AgentClient):
         self.api_keys:list = load_json(api_key_list_file)
         random.seed(374)
         random.shuffle(self.api_keys)
+        self.max_retries = max_retries
         self.body = body or {}
         self.return_format = return_format
         self.prompter = Prompter.get_prompter(prompter)
@@ -262,7 +263,7 @@ class HTTPAgentOpenAI(AgentClient):
         return self.prompter(history)
 
     def inference(self, history: List[dict]) -> str:
-        for _ in range(3):
+        for _ in range(self.max_retries):
             try:
                 body = self.body.copy()
                 body.update(self._handle_history(history))
@@ -278,7 +279,7 @@ class HTTPAgentOpenAI(AgentClient):
                     else:
                         raise Exception(
                             f"Invalid status code {resp.status_code}:\n\n{resp.text}"
-                        )
+                        ) # 外层 catch
             except AgentClientException as e:
                 raise e
             except Exception as e:

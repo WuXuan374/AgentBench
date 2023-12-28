@@ -13,3 +13,13 @@ kg-std:
   parameters:
     name: "KnowledgeGraph-std"
     data_file: "data/knowledgegraph/std.json"
+  
+kg-debug:
+  parameters:
+    name: "KnowledgeGraph-debug"
+    data_file: "data/knowledgegraph/debug.json"
+
+kg-webqsp-test-0-200:
+  parameters:
+    name: "KnowledgeGraph-webqsp-test-0-200"
+    data_file: "data/knowledgegraph/webqsp_test_0_200.json"

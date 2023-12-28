@@ -2,4 +2,4 @@ definition:
   import: tasks/task_assembly.yaml
 
 start:
-  kg-debug: 1
+  kg-webqsp-test-0-200: 1

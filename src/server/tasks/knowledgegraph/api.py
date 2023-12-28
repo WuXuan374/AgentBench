@@ -37,7 +37,7 @@ def final_execute(variable: Variable, sparql_executor):
 
     results = sparql_executor.execute_query(sparql_query)
 
-    return results
+    return results, processed_code
 
 def get_relations(variable: Union[Variable, str], sparql_executor):
     """
