@@ -23,3 +23,13 @@ kg-webqsp-test-0-200:
   parameters:
     name: "KnowledgeGraph-webqsp-test-0-200"
     data_file: "data/knowledgegraph/webqsp_test_0_200.json"
+
+kg-cwq-test-0-200:
+  parameters:
+    name: "KnowledgeGraph-cwq-test-0-200"
+    data_file: "data/knowledgegraph/cwq_test_0_200.json"
+  
+kg-grailqa-dev-0-200:
+  parameters:
+    name: "KnowledgeGraph-grailqa-dev-0-200"
+    data_file: "data/knowledgegraph/grailqa_v1.0_dev_0_200.json"

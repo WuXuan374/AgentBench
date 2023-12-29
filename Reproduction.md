@@ -132,3 +132,19 @@ python -m src.start_task -a --config configs/start_task_webqsp_test_0_200.yaml
 ```bash
 python -m src.assigner -r --config configs/assignments/default_webqsp_test_0_200.yaml
 ```
+
+## cwq_test_0_200
+```shell
+python -m src.start_task -a --config configs/start_task_cwq_test_0_200.yaml
+```
+```bash
+python -m src.assigner -r --config configs/assignments/default_cwq_test_0_200.yaml
+```
+
+## grailqa_dev_0_200
+```shell
+python -m src.start_task -a --config configs/start_task_grailqa_dev_0_200.yaml
+```
+```bash
+python -m src.assigner -r --config configs/assignments/default_grailqa_dev_0_200.yaml
+```
