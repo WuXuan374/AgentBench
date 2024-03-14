@@ -118,6 +118,7 @@ python -m src.assigner -r
 
 
 # 实验运行记录
+使用 agent-bench 环境
 ## debug
 ```shell
 python -m src.start_task -a
@@ -126,6 +127,9 @@ python -m src.start_task -a
 python -m src.assigner -r 
 ```
 ## webqsp_test_0_200
+手动修改 
+- kg.yaml 中的 sparql_url 为 "http://210.28.134.34:8890/sparql"
+- openai-chat-multi-keys.yaml 中，根据当前的 API key 使用情况，修改 api_key_list_file 参数
 ```shell
 python -m src.start_task -a --config configs/start_task_webqsp_test_0_200.yaml
 ```
@@ -134,6 +138,8 @@ python -m src.assigner -r --config configs/assignments/default_webqsp_test_0_200
 ```
 
 ## cwq_test_0_200
+- kg.yaml 中的 sparql_url 为 "http://210.28.134.34:8890/sparql"
+- openai-chat-multi-keys.yaml 中，根据当前的 API key 使用情况，修改 api_key_list_file 参数
 ```shell
 python -m src.start_task -a --config configs/start_task_cwq_test_0_200.yaml
 ```

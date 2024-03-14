@@ -2,7 +2,7 @@ default:
   module: "src.server.tasks.knowledgegraph.KnowledgeGraph"
   parameters:
     round: 15
-    sparql_url: "http://114.212.81.217:8896/sparql"
+    sparql_url: "http://210.28.134.34:8890/sparql"
 
 kg-dev:
   parameters:
@@ -22,14 +22,74 @@ kg-debug:
 kg-webqsp-test-0-200:
   parameters:
     name: "KnowledgeGraph-webqsp-test-0-200"
-    data_file: "data/knowledgegraph/webqsp_test_0_200.json"
+    data_file: "data/knowledgegraph/webqsp/webqsp_test_0_200.json"
+  
+kg-webqsp-test-200-400:
+  parameters:
+    name: "KnowledgeGraph-webqsp-test-200-400"
+    data_file: "data/knowledgegraph/webqsp/webqsp_test_200_400.json"
+  
+kg-webqsp-test-400-600:
+  parameters:
+    name: "KnowledgeGraph-webqsp-test-400-600"
+    data_file: "data/knowledgegraph/webqsp/webqsp_test_400_600.json"
+
+kg-webqsp-test-600-800:
+  parameters:
+    name: "KnowledgeGraph-webqsp-test-600-800"
+    data_file: "data/knowledgegraph/webqsp/webqsp_test_600_800.json"
+  
+kg-webqsp-test-800-1000:
+  parameters:
+    name: "KnowledgeGraph-webqsp-test-800-1000"
+    data_file: "data/knowledgegraph/webqsp/webqsp_test_800_1000.json"
 
 kg-cwq-test-0-200:
   parameters:
     name: "KnowledgeGraph-cwq-test-0-200"
-    data_file: "data/knowledgegraph/cwq_test_0_200.json"
+    data_file: "data/knowledgegraph/cwq/cwq_test_0_200.json"
+
+kg-cwq-test-200-400:
+  parameters:
+    name: "KnowledgeGraph-cwq-test-200-400"
+    data_file: "data/knowledgegraph/cwq/cwq_test_200_400.json"
+
+kg-cwq-test-400-600:
+  parameters:
+    name: "KnowledgeGraph-cwq-test-400-600"
+    data_file: "data/knowledgegraph/cwq/cwq_test_400_600.json"
+
+kg-cwq-test-600-800:
+  parameters:
+    name: "KnowledgeGraph-cwq-test-600-800"
+    data_file: "data/knowledgegraph/cwq/cwq_test_600_800.json"
+
+kg-cwq-test-800-1000:
+  parameters:
+    name: "KnowledgeGraph-cwq-test-800-1000"
+    data_file: "data/knowledgegraph/cwq/cwq_test_800_1000.json"
   
 kg-grailqa-dev-0-200:
   parameters:
     name: "KnowledgeGraph-grailqa-dev-0-200"
-    data_file: "data/knowledgegraph/grailqa_v1.0_dev_0_200.json"
+    data_file: "data/knowledgegraph/grailqa/grailqa_v1.0_dev_0_200.json"
+
+kg-grailqa-dev-200-400:
+  parameters:
+    name: "KnowledgeGraph-grailqa-dev-200-400"
+    data_file: "data/knowledgegraph/grailqa/grailqa_v1.0_dev_200_400.json"
+
+kg-grailqa-dev-400-600:
+  parameters:
+    name: "KnowledgeGraph-grailqa-dev-400-600"
+    data_file: "data/knowledgegraph/grailqa/grailqa_v1.0_dev_400_600.json"
+
+kg-grailqa-dev-600-800:
+  parameters:
+    name: "KnowledgeGraph-grailqa-dev-600-800"
+    data_file: "data/knowledgegraph/grailqa/grailqa_v1.0_dev_600_800.json"
+
+kg-grailqa-dev-800-1000:
+  parameters:
+    name: "KnowledgeGraph-grailqa-dev-800-1000"
+    data_file: "data/knowledgegraph/grailqa/grailqa_v1.0_dev_800_1000.json"
