@@ -10,5 +10,5 @@ parameters:
     args:
       agent_role: assistant
   return_format: "{response[choices][0][message][content]}"
-  api_key_list_file: configs/apikeys/exclusive/openai_keys_1.json
+  api_key_list_file: configs/apikeys/exclusive/openai_keys_2_3_4.json
   max_retries: 10

@@ -1,0 +1,15 @@
+import: definition.yaml
+
+concurrency:
+  task:
+    kg-cwq-test-800-1000: 1
+  agent:
+    gpt-3.5-turbo-0613: 1
+
+assignments: # List[Assignment] | Assignment
+  - agent: # "task": List[str] | str ,  "agent": List[str] | str
+      - gpt-3.5-turbo-0613
+    task:
+      - kg-cwq-test-800-1000
+
+output: "outputs/cwq_test_800_1000_{TIMESTAMP}"

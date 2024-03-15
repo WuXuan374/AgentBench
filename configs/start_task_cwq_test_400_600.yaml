@@ -1,0 +1,5 @@
+definition:
+  import: tasks/task_assembly.yaml
+
+start:
+  kg-cwq-test-400-600: 1

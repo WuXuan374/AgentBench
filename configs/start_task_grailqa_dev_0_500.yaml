@@ -1,0 +1,5 @@
+definition:
+  import: tasks/task_assembly.yaml
+
+start:
+  kg-grailqa-dev-0-500: 1
