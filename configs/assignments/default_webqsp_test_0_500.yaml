@@ -2,7 +2,7 @@ import: definition.yaml
 
 concurrency:
   task:
-    kg-grailqa-dev-0-500: 1
+    kg-webqsp-test-0-500: 1
   agent:
     gpt-3.5-turbo-0613: 1
 
@@ -10,6 +10,6 @@ assignments: # List[Assignment] | Assignment
   - agent: # "task": List[str] | str ,  "agent": List[str] | str
       - gpt-3.5-turbo-0613
     task:
-      - kg-grailqa-dev-0-500
+      - kg-webqsp-test-0-500
 
-output: "outputs/grailqa_dev_0_500_{TIMESTAMP}"
+output: "outputs/webqsp_test_0_500_{TIMESTAMP}"

@@ -2,7 +2,7 @@ default:
   module: "src.server.tasks.knowledgegraph.KnowledgeGraph"
   parameters:
     round: 15
-    sparql_url: "http://210.28.134.34:8890/sparql"
+    sparql_url: "http://114.212.81.217:8896/sparql/"
 
 kg-dev:
   parameters:
@@ -44,6 +44,16 @@ kg-webqsp-test-800-1000:
     name: "KnowledgeGraph-webqsp-test-800-1000"
     data_file: "data/knowledgegraph/webqsp/webqsp_test_800_1000.json"
 
+kg-webqsp-test-0-500:
+  parameters:
+    name: "KnowledgeGraph-webqsp-test-0-500"
+    data_file: "data/knowledgegraph/webqsp/webqsp_test_0_500.json"
+  
+kg-webqsp-test-500-1000:
+  parameters:
+    name: "KnowledgeGraph-webqsp-test-500-1000"
+    data_file: "data/knowledgegraph/webqsp/webqsp_test_500_1000.json"
+
 kg-cwq-test-0-200:
   parameters:
     name: "KnowledgeGraph-cwq-test-0-200"
@@ -69,37 +79,22 @@ kg-cwq-test-800-1000:
     name: "KnowledgeGraph-cwq-test-800-1000"
     data_file: "data/knowledgegraph/cwq/cwq_test_800_1000.json"
   
-kg-grailqa-dev-0-200:
-  parameters:
-    name: "KnowledgeGraph-grailqa-dev-0-200"
-    data_file: "data/knowledgegraph/grailqa/grailqa_v1.0_dev_0_200.json"
-
-kg-grailqa-dev-200-400:
-  parameters:
-    name: "KnowledgeGraph-grailqa-dev-200-400"
-    data_file: "data/knowledgegraph/grailqa/grailqa_v1.0_dev_200_400.json"
-
-kg-grailqa-dev-400-600:
-  parameters:
-    name: "KnowledgeGraph-grailqa-dev-400-600"
-    data_file: "data/knowledgegraph/grailqa/grailqa_v1.0_dev_400_600.json"
-
-kg-grailqa-dev-600-800:
-  parameters:
-    name: "KnowledgeGraph-grailqa-dev-600-800"
-    data_file: "data/knowledgegraph/grailqa/grailqa_v1.0_dev_600_800.json"
-
-kg-grailqa-dev-800-1000:
-  parameters:
-    name: "KnowledgeGraph-grailqa-dev-800-1000"
-    data_file: "data/knowledgegraph/grailqa/grailqa_v1.0_dev_800_1000.json"
-  
 kg-grailqa-dev-0-500:
   parameters:
     name: "KnowledgeGraph-grailqa-dev-0-500"
-    data_file: "data/knowledgegraph/grailqa/grailqa_v1.0_dev_0_500.json"
+    data_file: "data/knowledgegraph/grailqa/grailqa_dev_0_500.json"
+  
+kg-grailqa-dev-0-260:
+  parameters:
+    name: "KnowledgeGraph-grailqa-dev-0-260"
+    data_file: "data/knowledgegraph/grailqa/grailqa_dev_0_260.json"
 
 kg-grailqa-dev-500-1000:
   parameters:
     name: "KnowledgeGraph-grailqa-dev-500-1000"
-    data_file: "data/knowledgegraph/grailqa/grailqa_v1.0_dev_500_1000.json"
+    data_file: "data/knowledgegraph/grailqa/grailqa_dev_500_1000.json"
+
+kg-grailqa-dev-800-1000:
+  parameters:
+    name: "KnowledgeGraph-grailqa-dev-800-1000"
+    data_file: "data/knowledgegraph/grailqa/grailqa_dev_800_1000.json"

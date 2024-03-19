@@ -187,6 +187,26 @@ python -m src.start_task -a --config configs/start_task_cwq_test_800_1000.yaml
 python -m src.assigner -r --config configs/assignments/default_cwq_test_800_1000.yaml
 ```
 
+## webqsp_test_0_500
+- 使用 official 端口，kg.yaml 中的 sparql_url 为 "http://210.28.134.34:8890/sparql"
+- openai-chat-multi-keys.yaml 中，根据当前的 API key 使用情况，修改 api_key_list_file 参数
+```shell
+python -m src.start_task -a --config configs/start_task_webqsp_test_0_500.yaml
+```
+```bash
+python -m src.assigner -r --config configs/assignments/default_webqsp_test_0_500.yaml
+```
+
+## webqsp_test_500_1000
+- 使用 official 端口，kg.yaml 中的 sparql_url 为 "http://210.28.134.34:8890/sparql"
+- openai-chat-multi-keys.yaml 中，根据当前的 API key 使用情况，修改 api_key_list_file 参数
+```shell
+python -m src.start_task -a --config configs/start_task_webqsp_test_500_1000.yaml
+```
+```bash
+python -m src.assigner -r --config configs/assignments/default_webqsp_test_500_1000.yaml
+```
+
 ## grailqa_dev_0_500
 - kg.yaml 中的 sparql_url 为 "http://114.212.81.217:8896/sparql/"
 - openai-chat-multi-keys.yaml 中，根据当前的 API key 使用情况，修改 api_key_list_file 参数
@@ -195,4 +215,25 @@ python -m src.start_task -a --config configs/start_task_grailqa_dev_0_500.yaml
 ```
 ```bash
 python -m src.assigner -r --config configs/assignments/default_grailqa_dev_0_500.yaml
+```
+
+## grailqa_dev_0_260
+由于 grailqa_dev_0_500 运行过程的中断，还得另外跑一下 grailqa_dev_0_260
+- kg.yaml 中的 sparql_url 为 "http://114.212.81.217:8896/sparql/"
+- openai-chat-multi-keys.yaml 中，根据当前的 API key 使用情况，修改 api_key_list_file 参数
+```shell
+python -m src.start_task -a --config configs/start_task_grailqa_dev_0_260.yaml
+```
+```bash
+python -m src.assigner -r --config configs/assignments/default_grailqa_dev_0_260.yaml
+```
+
+## grailqa_dev_800_1000
+- kg.yaml 中的 sparql_url 为 "http://114.212.81.217:8896/sparql/"
+- openai-chat-multi-keys.yaml 中，根据当前的 API key 使用情况，修改 api_key_list_file 参数
+```shell
+python -m src.start_task -a --config configs/start_task_grailqa_dev_800_1000.yaml
+```
+```bash
+python -m src.assigner -r --config configs/assignments/default_grailqa_dev_800_1000.yaml
 ```
