@@ -228,6 +228,28 @@ python -m src.start_task -a --config configs/start_task_grailqa_dev_0_260.yaml
 python -m src.assigner -r --config configs/assignments/default_grailqa_dev_0_260.yaml
 ```
 
+## grailqa_dev_500_584
+
+- kg.yaml 中的 sparql_url 为 "http://114.212.81.217:8896/sparql/"
+- openai-chat-multi-keys.yaml 中，根据当前的 API key 使用情况，修改 api_key_list_file 参数
+```shell
+python -m src.start_task -a --config configs/start_task_grailqa_dev_500_584.yaml
+```
+```bash
+python -m src.assigner -r --config configs/assignments/default_grailqa_dev_500_584.yaml
+```
+
+## grailqa_dev_584_800
+本来要运行 500_800 的，中间中断了，变成运行 584_800
+- kg.yaml 中的 sparql_url 为 "http://114.212.81.217:8896/sparql/"
+- openai-chat-multi-keys.yaml 中，根据当前的 API key 使用情况，修改 api_key_list_file 参数
+```shell
+python -m src.start_task -a --config configs/start_task_grailqa_dev_500_800.yaml
+```
+```bash
+python -m src.assigner -r --config configs/assignments/default_grailqa_dev_500_800.yaml
+```
+
 ## grailqa_dev_800_1000
 - kg.yaml 中的 sparql_url 为 "http://114.212.81.217:8896/sparql/"
 - openai-chat-multi-keys.yaml 中，根据当前的 API key 使用情况，修改 api_key_list_file 参数

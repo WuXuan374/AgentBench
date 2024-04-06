@@ -94,6 +94,16 @@ kg-grailqa-dev-500-1000:
     name: "KnowledgeGraph-grailqa-dev-500-1000"
     data_file: "data/knowledgegraph/grailqa/grailqa_dev_500_1000.json"
 
+kg-grailqa-dev-500-800:
+  parameters:
+    name: "KnowledgeGraph-grailqa-dev-500-800"
+    data_file: "data/knowledgegraph/grailqa/grailqa_dev_500_800.json"
+
+kg-grailqa-dev-500-584:
+  parameters:
+    name: "KnowledgeGraph-grailqa-dev-500-584"
+    data_file: "data/knowledgegraph/grailqa/grailqa_dev_500_584.json"
+
 kg-grailqa-dev-800-1000:
   parameters:
     name: "KnowledgeGraph-grailqa-dev-800-1000"
